@@ -11,7 +11,7 @@ import java.util.Map;
 public class ProductavailabilityController {
 	private final org.slf4j.Logger LOGGER = LoggerFactory.getLogger(this.getClass());
 
-	@Value("Productavailability Service")
+	@Value("Productavailability New Service")
     private String greetingMessage;
 	
     @GetMapping("/index")
